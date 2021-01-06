@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d151e6b-9b96-4a32-9d87-75880bb03670" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1mVncyuAJwyIRPFuer5r6NqB1yo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d151e6b-9b96-4a32-9d87-75880bb03670" name="Default Changelist" comment="" />
+      <created>1609587708794</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609587708794</updated>
+      <workItem from="1609587709952" duration="439000" />
+      <workItem from="1609588181047" duration="441000" />
+      <workItem from="1609588709187" duration="2090000" />
+      <workItem from="1609591512025" duration="4696000" />
+      <workItem from="1609678653248" duration="570000" />
+      <workItem from="1609701991742" duration="115000" />
+      <workItem from="1609753486702" duration="1971000" />
+      <workItem from="1609756557807" duration="9120000" />
+      <workItem from="1609841196838" duration="324000" />
+      <workItem from="1609844601643" duration="4670000" />
+      <workItem from="1609872932218" duration="206000" />
+      <workItem from="1609924317160" duration="201000" />
+      <workItem from="1609939590299" duration="405000" />
+      <workItem from="1609940009711" duration="753000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1609590540688</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609590540688</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init">
+      <created>1609600299151</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609600299151</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+</project>
