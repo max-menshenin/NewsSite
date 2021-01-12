@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d151e6b-9b96-4a32-9d87-75880bb03670" name="Default Changelist" comment="" />
+    <list default="true" id="1d151e6b-9b96-4a32-9d87-75880bb03670" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,7 +14,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1mVncyuAJwyIRPFuer5r6NqB1yo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -49,7 +52,16 @@
       <workItem from="1609872932218" duration="206000" />
       <workItem from="1609924317160" duration="201000" />
       <workItem from="1609939590299" duration="405000" />
-      <workItem from="1609940009711" duration="753000" />
+      <workItem from="1609940009711" duration="2716000" />
+      <workItem from="1609962522901" duration="567000" />
+      <workItem from="1610042427034" duration="184000" />
+      <workItem from="1610100150659" duration="541000" />
+      <workItem from="1610102285583" duration="596000" />
+      <workItem from="1610188602670" duration="10000" />
+      <workItem from="1610280105670" duration="5000" />
+      <workItem from="1610296866220" duration="474000" />
+      <workItem from="1610360657428" duration="557000" />
+      <workItem from="1610369531346" duration="1149000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1609590540688</created>
